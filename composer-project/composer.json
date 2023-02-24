@@ -1,0 +1,12 @@
+{
+    "name": "charles/composer-project",
+    "authors": [
+        {
+            "name": "Klaus",
+            "email": "kriegle@seznam.cz"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
